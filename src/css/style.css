@@ -10,6 +10,19 @@ h2 {
     font-style: italic;
 }
 
+h3 {
+    color:red;
+    text-align: center;
+}
+
+.said {
+    font-style: italic;
+}
+
+.italic {
+    font-style: italic;
+}
+
 .text {
     font-weight: bold;
     text-transform: uppercase;
